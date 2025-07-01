@@ -1,0 +1,16 @@
+# COLORS
+COLOR_ORANGE = (255, 165, 0)
+COLOR_WHITE = (255, 255, 255)
+COLOR_YELLOW = (255, 255, 0)
+
+# MENU OPTIONS
+MENU_OPTION = ['NEW GAME P1',
+               'NEW GAME P2 - COOP',
+               'NEW GAME P2 - VERSUS',
+               'SCORE',
+               'EXIT']
+
+
+#WINDOW DIMENSIONS
+WIN_WIDTH  = 576
+WIN_HEIGHT = 324
